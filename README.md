@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yusufpalak
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning ASP .NET MVC
+- 🌱 I’m currently learning ASP .NET MVC,React, .Net Core
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me:
 - Instagram: @yusufpalak
