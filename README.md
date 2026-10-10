@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • Product Builder • SaaS Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Building+things+for+the+web+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Co-Founder+%F0%9F%92%BB;Turning+ideas+into+products+%E2%9C%A8;Co-Founder+of+Kernelasoft+%F0%9F%8D%BD%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Building+things+for+the+web+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Co-Founder+%F0%9F%A4%9D;Turning+ideas+into+products+%E2%9C%A8;Co-Founder+of+Kernelasoft+%F0%9F%8F%A2;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
